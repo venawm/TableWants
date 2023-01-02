@@ -1,0 +1,14 @@
+* {
+  margin-left: 0rem;
+  margin-right: 0rem;
+  padding: 0;
+  /* background-color: #0F0E0E;
+  color: white; */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
