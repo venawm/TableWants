@@ -1,9 +1,13 @@
-import NavBar from "./components/NavBar";
+import Home from "./pages/Home";
+import {
+  Box
+} from '@chakra-ui/react'
+
 function App() {
   return (
-    <div className="App">
-      <NavBar ></NavBar>
-    </div>
+    <Box ml={'10rem'} mr={'10rem'}>
+      <Home></Home>
+    </Box>
   );
 }
 
